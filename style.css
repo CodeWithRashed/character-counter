@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #1d1d1d;
+    background-color: #B2A4FF;
 }
 div{
     padding:15px;
@@ -17,7 +17,7 @@ div{
 }
 
 .box{
-    background-color: #bdbbbb;
+    background-color: #FFB4B4;
     margin: 10px;
     padding: 10px;
     border-radius: 10px;
@@ -37,7 +37,7 @@ textarea{
     padding: 10px;
     font-size: 15px;
     border: 1px solid #1d1d1d;
-    background-color: rgba(174, 176, 177, 0.66);
+    background-color: #FFDEB4;
 }
 
 .counter{
