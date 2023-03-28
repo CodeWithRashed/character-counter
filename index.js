@@ -16,8 +16,7 @@ function chCounter(){
     var chCount = textArea.value.length;
 
     counterText.innerText = chCount;
-    remainCh.innerText = remainCount - chCount;   
-
+    remainCh.innerText = remainCount - chCount;  
 }
 
 
